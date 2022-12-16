@@ -44,7 +44,7 @@ void PrintArray(int[,] array)
         {
             Console.Write(array[i, j] + " ");
         }
-        Console.Write("]");
+        Console.Write(" ]");
         Console.WriteLine("");
     }
 }

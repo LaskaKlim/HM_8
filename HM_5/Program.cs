@@ -24,7 +24,8 @@ void FillArraySpiral(int[,] array, int n)
 void PrintArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
-    {
+    {  
+        Console.Write("[ ");
         for (int j = 0; j < array.GetLength(1); j++)
         {
             if (array[i, j] < 10)
@@ -34,6 +35,7 @@ void PrintArray(int[,] array)
             }
             else Console.Write(array[i, j] + " ");
         }
+        Console.Write("] ");
         Console.WriteLine();
     }
 }

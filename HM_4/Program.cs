@@ -21,17 +21,26 @@ void FillArray(int[,,] arr)
 }
 
 void PrintIndex(int[,,] arr)
-{
+{  
+ 
     for (int i = 0; i < array3D.GetLength(0); i++)
     {
-        for (int j = 0; j < array3D.GetLength(1); j++)
-        {
-            Console.WriteLine();
+      
+       for (int j = 0; j < array3D.GetLength(1); j++)
+        {  
+            Console.WriteLine();  
+            Console.Write("[ ");  
             for (int k = 0; k < array3D.GetLength(2); k++)
             {
                 Console.Write($"{array3D[i, j, k]}({i},{j},{k}) ");
             }
+            Console.Write("] ");
         }
-    }
+        
+
+      
+    }   
+   
 }
+
 

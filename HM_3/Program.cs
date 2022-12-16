@@ -10,9 +10,9 @@ FillArrayRandomNumbers(matrixA);
 FillArrayRandomNumbers(matrixB);
 
 Console.WriteLine();
-Console.WriteLine("первый массив ");
+Console.WriteLine("Первая матрица ");
 PrintArray(matrixA);
-Console.WriteLine("второй массив ");
+Console.WriteLine("Вторая матрица ");
 PrintArray(matrixB);
 
   int[,] matrixC = new int[linesVol, columnsVol];
@@ -29,7 +29,7 @@ PrintArray(matrixB);
             }
         }
 
-Console.WriteLine(" массив ");
+Console.WriteLine(" Произведение заданных матриц ");
 PrintArray(matrixC);
 
 void FillArrayRandomNumbers(int[,] array)
