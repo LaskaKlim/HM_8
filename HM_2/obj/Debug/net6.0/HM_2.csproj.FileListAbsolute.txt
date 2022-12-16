@@ -1,0 +1,15 @@
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\bin\Debug\net6.0\HM_2.exe
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\bin\Debug\net6.0\HM_2.deps.json
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\bin\Debug\net6.0\HM_2.runtimeconfig.json
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\bin\Debug\net6.0\HM_2.dll
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\bin\Debug\net6.0\HM_2.pdb
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.csproj.AssemblyReference.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.AssemblyInfoInputs.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.AssemblyInfo.cs
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.csproj.CoreCompileInputs.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.dll
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\refint\HM_2.dll
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.pdb
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\HM_2.genruntimeconfig.cache
+C:\Users\Fushigi\Desktop\Семинары с#\sem_8\HM_2\obj\Debug\net6.0\ref\HM_2.dll
